@@ -1,0 +1,1 @@
+This is the result: Hi! I am first text!, Hi! I am second text!.This is the result: Hi! I am first text!, Hi! I am second text!.
